@@ -1,4 +1,4 @@
-# Visual Studio files
+# Visual Studio
 .vs/
 *.user
 *.suo
@@ -6,9 +6,11 @@
 # Build results
 bin/
 obj/
-Debug/
-Release/
 
-# Other
+# Rider
+.idea/
+
+# Others
 *.log
-*.tmp
+*.db
+*.cache
